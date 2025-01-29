@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Activity e Intents</string>
+    <string name="main_button_toast">EXIBIR TOAST</string>
+     <string name="main_button_screen2">TELA 2</string>
+</resources>
