@@ -2,4 +2,8 @@
     <string name="app_name">Activity e Intents</string>
     <string name="main_button_toast">EXIBIR TOAST</string>
      <string name="main_button_screen2">TELA 2</string>
+    <string name="button_parcelable">Parcelable via Intent</string>
+    <string name="button_serializable">Serializable via Intent</string>
+    <string name="result_screen_text1">Nome: %1$s/Código: %2$d</string>
+    <string name="result_screen_text2">Nome: %1$s/Idade: %2$d</string>
 </resources>
